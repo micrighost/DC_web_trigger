@@ -144,4 +144,5 @@ def run_scanner():
             print(f"空值報告傳送失敗: {e}")
 
 
-# run_scanner()
+if __name__ == "__main__":
+    run_scanner()

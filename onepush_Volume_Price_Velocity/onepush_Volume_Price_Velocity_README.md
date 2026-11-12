@@ -64,13 +64,7 @@ pip install yfinance pandas numpy requests
 
 ## ▶️ 如何執行 (Usage)
 
-程式最底下的run_scanner()註釋要打開
-如果要掛到trigger.py來統一PUSH要註釋掉run_scanner()：
-
-```bash
-# run_scanner()
-```
-設定好後，直接執行主程式即可：
+直接執行主程式即可：
 
 ```bash
 python your_script_name.py
